@@ -1,2 +1,2 @@
 # Jupyter2HTML
-Using Jupyter to create a Jupyter Python 3.7 intro in html
+Using Python 3.7 to create a Jupyter intro
